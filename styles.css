@@ -1,0 +1,119 @@
+body {
+  text-align: center;
+  margin-top: 150px;
+  background-image: url("Hyderabad.jpg");
+  background-repeat: no-repeat;
+  background-size: 1700px 500px;
+  color: white;
+  border-radius: 80px;
+  font-family: Verdana;
+  
+  
+}
+
+#text-hyd {
+  background: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px;
+  width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+    
+}
+
+#text2 {
+  background: black;
+  width: 550px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#text3 {
+  margin-top: 200px;
+  color: black;
+}
+
+#main-logo {
+  width: 180px;
+  border-radius: 100px;
+}
+
+#tank {
+ color: black;
+}
+
+#tank1 {
+ color: black;
+}
+
+#main-logo1 {
+  width: 170px;
+  border-radius: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#birla {
+ color: black;
+}
+
+#birla1 {
+ color: black;
+}
+
+#main-logo2 {
+  width: 170px;
+  border-radius: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#salar {
+ color: black;
+}
+
+#salar1 {
+ color: black;
+}
+
+.wrap {
+   display: flex;
+   justify-content: space-between;
+   margin-top: 0px;
+}
+
+.second {
+  background: #F3EDDA;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.logo-img {
+   width: 400px;
+   border-radius: 5px;
+}
+
+.card {
+   padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   width: 400px;
+   margin: 10px auto;
+   text-align: center;
+   background: #ddebf8;
+   color: #2b2839;
+   flex-direction: column;
+   border-radius: 5px;
+   
+}
+
+
+   
